@@ -30,9 +30,9 @@ For any questions or suggestions, contact us via the information provided below.
 
 Authors
 --------------------------------------------------------------------------------------------------------------------------------------------------
-Abderrahmane HAMMOU
-Hamzaaxx
-XaMiNeZH
+@Hamzaaxx
+@Abderrahmane HAMMOU
+@XaMiNeZH
 
 
 
